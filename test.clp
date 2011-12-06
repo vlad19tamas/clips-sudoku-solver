@@ -1,0 +1,1 @@
+(defrule testing=>(printout t "hello world" crlf))
