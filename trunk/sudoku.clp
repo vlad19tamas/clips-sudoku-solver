@@ -1,0 +1,1 @@
+(deftemplate possible   (slot row)   (slot column)   (slot value)   (slot group)   (slot id))
